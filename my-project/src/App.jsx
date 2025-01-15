@@ -6,7 +6,7 @@ import "./index.css";
 const App = () => {
   return (
     <div>
-      <FilterBar />
+      {/* <FilterBar /> */}
       <PropertyList />
     </div>
   );
